@@ -2,7 +2,7 @@
 
 I'm a Data Science and Engineering graduate from the Universidad de Las Palmas de Gran Canaria (ULPGC). I work with data — cleaning it, modelling it, and building things that make it useful. My main focus is predictive modelling and machine learning, though I've also built distributed systems, cloud architectures, and AI-powered tools along the way.
 
-I recently finished my degree with a final project in collaboration with a hotel group in Gran Canaria, where I developed a full occupancy forecasting system using time series models and machine learning, with SHAP explainability and a Power BI dashboard for scenario simulation.
+I recently finished my degree with a final project in collaboration with a hotel group in Gran Canaria (LIVVO Hotel Group), where I developed a full occupancy forecasting system using time series models and machine learning, with SHAP explainability and a Power BI dashboard for scenario simulation.
 
 I'm currently open to new opportunities.
 
