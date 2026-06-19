@@ -1,90 +1,38 @@
-# 👋 Hi, I'm Jorge González
+# Hi, I'm Jorge
 
-🎓 Final-year Data Science & Data Engineering Student  
-💻 Python | SQL | Machine Learning | NLP | Data Analytics | AWS  
-📍 Open to internships & junior roles in Data, AI and Software  
+I'm a Data Science and Engineering graduate from the Universidad de Las Palmas de Gran Canaria (ULPGC). I work with data — cleaning it, modelling it, and building things that make it useful. My main focus is predictive modelling and machine learning, though I've also built distributed systems, cloud architectures, and AI-powered tools along the way.
 
----
+I recently finished my degree with a final project in collaboration with a hotel group in Gran Canaria, where I developed a full occupancy forecasting system using time series models and machine learning, with SHAP explainability and a Power BI dashboard for scenario simulation.
 
-## 🚀 About Me
-
-I am a final-year Data Science & Data Engineering student with hands-on experience building real-world projects in data analysis, machine learning, distributed systems and automation.
-
-I enjoy transforming raw data into meaningful insights and building scalable, data-driven solutions. My academic background and personal projects have allowed me to work across the full data pipeline: from data cleaning and exploration to machine learning models and system design.
-
-Currently looking for:
-- Data Analyst Intern / Junior  
-- Data Scientist Intern / Junior  
-- Data Engineer Intern / Junior  
-- AI/ML Intern  
+I'm currently open to new opportunities.
 
 ---
 
-## 🛠 Tech Stack
+## What I work with
 
-**Languages**  
-Python · SQL · Java · R · C++ · HTML  
-
-**Data & Machine Learning**  
-pandas · NumPy · scikit-learn · matplotlib · seaborn  
-Machine Learning · Deep Learning · NLP · EDA · Model evaluation  
-
-**Databases**  
-MySQL · SQLite · NoSQL  
-
-**Tools & Cloud**  
-Git · GitHub · Jupyter Notebook · AWS · Linux  
-
-**Other Skills**  
-Data visualization · Automation · APIs · Problem solving · Teamwork  
+Python is my main language. For data and modelling I use pandas, NumPy, scikit-learn, XGBoost, statsmodels, and SHAP. For deep learning, TensorFlow and Keras. For visualisation and business intelligence, Power BI (DAX, Deneb/Vega-Lite), Matplotlib, Seaborn, and Plotly. On the infrastructure side, I've worked with AWS (EC2, S3), Docker, and Java for distributed systems. I'm comfortable with SQL, Oracle, MongoDB, and NoSQL databases, and I use Git for everything.
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-### 🔹 Distributed Text Processing System
-Distributed system developed in Java for large-scale text processing.  
-Includes scalable architecture, multithreading and efficient data handling.
+**[Hotel Occupancy Forecasting — TFG](https://github.com/jorgegonzalezbenitez/Proyecto-TFT)**
+Predictive system for daily hotel occupancy across three properties, built under the CRISP-DM methodology. Compared ARIMA, SARIMA, SARIMAX, Random Forest, and XGBoost — the latter winning across all hotels with a MAPE under 9.4%. Includes SHAP analysis and a full Power BI dashboard with forecast scenarios for 2026.
 
-### 🔹 Paddle Agent (AI Project)
-Python-based intelligent agent applying machine learning and automation techniques to simulate decision-making processes.
+**[AI Agent for Padel Club Management](https://github.com/jorgegonzalezbenitez/Paddle-Agent)**
+Conversational agent that handles court bookings and cancellations in natural language, with direct database access via Telegram. Built with Python, LLM tools, MCP, and prompt engineering.
 
-### 🔹 Air Routes Optimization
-Algorithmic and graph-based project focused on route optimization and efficient pathfinding.
+**[Machine Learning & Neural Networks](https://github.com/jorgegonzalezbenitez/Aprendizaje-Automatico)**
+Supervised learning models covering regression, classification, and neural network design and evaluation with TensorFlow and Keras.
 
-### 🔹 Machine Learning & Data Analysis Projects
-Collection of ML and data analysis notebooks including:
-- Classification and regression models  
-- Exploratory data analysis  
-- Data visualization and insights  
-- Model evaluation and improvement  
+**[Distributed Text Processing System](https://github.com/jorgegonzalezbenitez/Distributed-Text-Processing-System)**
+Multi-module distributed architecture for downloading, indexing, and querying over 2,150 books using an inverted index, Hazelcast, and MongoDB. Peak speed: 75 books/min, query latency under 400 ms.
+
+**[Air Routes — Scalable Flight Search Platform](https://github.com/jorgegonzalezbenitez/Air-Routes)**
+End-to-end cloud platform for flight search, fully deployed on AWS with a REST API (Spring Boot on EC2), Neo4j datamart, S3 datalake, and CI/CD via GitHub Actions.
 
 ---
 
-## 🎓 Education
+## Get in touch
 
-**BSc in Data Science & Data Engineering**  
-University of Las Palmas de Gran Canaria  
-Final year student  
-
-Relevant topics:
-- Machine Learning & AI  
-- Data Engineering & Cloud  
-- NLP & Deep Learning  
-- Data Visualization  
-- Mathematics & Statistics  
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/jorge-gonzález-a2612738b  
-- GitHub: https://github.com/jorgegonzalezbenitez  
-- Email: jorgeglezbenitez@gmail.com  
-
----
-
-## ⚡ Currently
-
-- Finishing my Data Science & Data Engineering degree  
-- Improving ML & data engineering projects  
+[jorgeglezbenitez@gmail.com](mailto:jorgeglezbenitez@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jorgegonzalez-a2612738b)
