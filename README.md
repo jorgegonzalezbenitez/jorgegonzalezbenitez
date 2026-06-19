@@ -17,7 +17,7 @@ Python is my main language. For data and modelling I use pandas, NumPy, scikit-l
 ## Projects
 
 **[Hotel Occupancy Forecasting — TFG](https://github.com/jorgegonzalezbenitez/Proyecto-TFT)**
-Predictive system for daily hotel occupancy across three properties, built under the CRISP-DM methodology. Compared ARIMA, SARIMA, SARIMAX, Random Forest, and XGBoost — the latter winning across all hotels with a MAPE under 9.4%. Includes SHAP analysis and a full Power BI dashboard with forecast scenarios for 2026.
+Predictive system for daily hotel occupancy across three properties, built under the CRISP-DM methodology. Compared ARIMA, SARIMA, SARIMAX, Random Forest, and XGBoost. Includes SHAP analysis and a full Power BI dashboard with forecast scenarios for 2026.
 
 **[AI Agent for Padel Club Management](https://github.com/jorgegonzalezbenitez/Paddle-Agent)**
 Conversational agent that handles court bookings and cancellations in natural language, with direct database access via Telegram. Built with Python, LLM tools, MCP, and prompt engineering.
