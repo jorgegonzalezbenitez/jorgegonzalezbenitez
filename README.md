@@ -1,38 +1,38 @@
-# Hi, I'm Jorge
+# Sobre mí
 
-I'm a Data Science and Engineering graduate from the Universidad de Las Palmas de Gran Canaria (ULPGC). I work with data — cleaning it, modelling it, and building things that make it useful. My main focus is predictive modelling and machine learning, though I've also built distributed systems, cloud architectures, and AI-powered tools along the way.
+Soy graduado en Ciencia e Ingeniería de Datos por la Universidad de Las Palmas de Gran Canaria (ULPGC). Trabajo con datos — limpiándolos, modelándolos y construyendo cosas que los hagan útiles. Mi foco principal es el modelado predictivo y el machine learning, aunque por el camino también he desarrollado sistemas distribuidos, arquitecturas cloud y herramientas basadas en IA.
 
-I recently finished my degree with a final project in collaboration with a hotel group in Gran Canaria (LIVVO Hotel Group), where I developed a full occupancy forecasting system using time series models and machine learning, with SHAP explainability and a Power BI dashboard for scenario simulation.
+Acabo de terminar el grado con un proyecto final en colaboración con un grupo hotelero en Gran Canaria (LIVVO Hotel Group), donde desarrollé un sistema completo de predicción de ocupación hotelera usando modelos de series temporales y machine learning, con explicabilidad SHAP y un dashboard en Power BI para simulación de escenarios.
 
-I'm currently open to new opportunities.
-
----
-
-## What I work with
-
-Python is my main language. For data and modelling I use pandas, NumPy, scikit-learn, XGBoost, statsmodels, and SHAP. For deep learning, TensorFlow and Keras. For visualisation and business intelligence, Power BI (DAX, Deneb/Vega-Lite), Matplotlib, Seaborn, and Plotly. On the infrastructure side, I've worked with AWS (EC2, S3), Docker, and Java for distributed systems. I'm comfortable with SQL, Oracle, MongoDB, and NoSQL databases, and I use Git for everything.
+Actualmente estoy abierto a nuevas oportunidades.
 
 ---
 
-## Projects
+## Con qué trabajo
 
-**[Hotel Occupancy Forecasting — TFG](https://github.com/jorgegonzalezbenitez/Proyecto-TFT)**
-Predictive system for daily hotel occupancy across three properties, built under the CRISP-DM methodology. Compared ARIMA, SARIMA, SARIMAX, Random Forest, and XGBoost. Includes SHAP analysis and a full Power BI dashboard with forecast scenarios for 2026.
-
-**[AI Agent for Padel Club Management](https://github.com/jorgegonzalezbenitez/Paddle-Agent)**
-Conversational agent that handles court bookings and cancellations in natural language, with direct database access via Telegram. Built with Python, LLM tools, MCP, and prompt engineering.
-
-**[Machine Learning & Neural Networks](https://github.com/jorgegonzalezbenitez/Aprendizaje-Automatico)**
-Supervised learning models covering regression, classification, and neural network design and evaluation with TensorFlow and Keras.
-
-**[Distributed Text Processing System](https://github.com/jorgegonzalezbenitez/Distributed-Text-Processing-System)**
-Multi-module distributed architecture for downloading, indexing, and querying over 2,150 books using an inverted index, Hazelcast, and MongoDB. Peak speed: 75 books/min, query latency under 400 ms.
-
-**[Air Routes — Scalable Flight Search Platform](https://github.com/jorgegonzalezbenitez/Air-Routes)**
-End-to-end cloud platform for flight search, fully deployed on AWS with a REST API (Spring Boot on EC2), Neo4j datamart, S3 datalake, and CI/CD via GitHub Actions.
+Python es mi lenguaje principal. Para datos y modelado uso pandas, NumPy, scikit-learn, XGBoost, statsmodels y SHAP. Para deep learning, TensorFlow y Keras. Para visualización e inteligencia de negocio, Power BI (DAX, Deneb/Vega-Lite), Matplotlib, Seaborn y Plotly. En el lado de infraestructura, he trabajado con AWS (EC2, S3), Docker y Java para sistemas distribuidos. Me manejo bien con SQL, Oracle, MongoDB y bases de datos NoSQL, y uso Git en todo.
 
 ---
 
-## Get in touch
+## Proyectos
+
+**[Predicción de Ocupación Hotelera — TFG](https://github.com/jorgegonzalezbenitez/Proyecto-TFT)**
+Sistema predictivo de ocupación diaria para tres hoteles, desarrollado bajo la metodología CRISP-DM. Comparé ARIMA, SARIMA, SARIMAX, Random Forest y XGBoost. Incluye análisis SHAP y un dashboard completo en Power BI con escenarios de forecast para 2026.
+
+**[Agente IA para Gestión de Club de Pádel](https://github.com/jorgegonzalezbenitez/Paddle-Agent)**
+Agente conversacional que gestiona reservas y cancelaciones de pistas en lenguaje natural, con acceso directo a base de datos vía Telegram. Desarrollado con Python, herramientas LLM, MCP e ingeniería de prompts.
+
+**[Aprendizaje Automático y Redes Neuronales](https://github.com/jorgegonzalezbenitez/Aprendizaje-Automatico)**
+Modelos de aprendizaje supervisado sobre regresión, clasificación, y diseño y evaluación de redes neuronales con TensorFlow y Keras.
+
+**[Sistema Distribuido de Procesamiento de Texto](https://github.com/jorgegonzalezbenitez/Distributed-Text-Processing-System)**
+Arquitectura distribuida multimodular para descargar, indexar y consultar más de 2.150 libros usando índice invertido, Hazelcast y MongoDB. Velocidad pico: 75 libros/min, latencia de consulta inferior a 400 ms.
+
+**[Air Routes — Plataforma Escalable de Búsqueda de Vuelos](https://github.com/jorgegonzalezbenitez/Air-Routes)**
+Plataforma cloud end-to-end para búsqueda de vuelos, desplegada completamente en AWS con una API REST (Spring Boot en EC2), datamart en Neo4j, datalake en S3 y CI/CD con GitHub Actions.
+
+---
+
+## Contacto
 
 [jorgeglezbenitez@gmail.com](mailto:jorgeglezbenitez@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jorgegonzalez-a2612738b)
